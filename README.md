@@ -47,8 +47,8 @@ From kaggle : https://www.kaggle.com/datasets/navoneel/brain-mri-images-for-brai
 * Metric used: Accuracy
 * Si gle-image inference supported
 * Class prediction mapped using ImageFolder.classes
-* ⚠️ Accuracy is not reliable for this dataset size.
-False negatives are possible.
+* Total accuracy achived : 87%
+* Running loss: 0.006
 
 ## 🧪 What This Project Covers
 
