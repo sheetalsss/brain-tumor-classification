@@ -3,6 +3,8 @@
 This is a **practice deep learning project** for image classification using PyTorch.  
 The goal was to understand the **end-to-end CNN pipeline** — data loading, transforms, model design, debugging shape errors, and inference — not to build a production-grade medical model.
 
+## Dataset 
+From kaggle : https://www.kaggle.com/datasets/navoneel/brain-mri-images-for-brain-tumor-detection
 ---
 
 ## 📌 Project Overview
